@@ -184,6 +184,12 @@ aside > ul{
     columns: 2;
 }
 
+/*NOVA ALTERAÇÃO*/
+
+aside abbr{
+    text-decoration: none;
+}
+
 footer{
     background-color: var(--cor5);
     color: white;
